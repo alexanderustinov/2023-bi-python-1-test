@@ -18,3 +18,43 @@
 
 ## 20231219
 Реализовать вычисление значения функции посредством суммирования членов ряда Тейлора. Остановку суммирования производить из соображений достижения точности не хуже 0.001 при x в диапазоне (0; 1).
+```commandline
+dyadechkov_iv
+e**x
+
+esikov_sd
+arccos x
+
+gritsai_id
+arctg x
+
+karpova_iyu
+ln(1+x)
+
+kozyrev_ds
+(1+x)**0.5
+
+maksimovich_as
+arcsin x
+
+malkov_ma
+ch x
+
+maslovskaya_ak
+arcctg x
+
+ozirov_che
+tg x
+
+pyatnichenko_dg
+sin x
+
+uljanov_yav
+cos x
+
+vinogradov_dm
+(1/(1+x))**0.5
+
+volkov_gr
+sh x
+```
