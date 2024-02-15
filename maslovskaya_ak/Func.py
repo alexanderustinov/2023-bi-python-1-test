@@ -12,6 +12,3 @@ def Func(S):
         Fx1 += math.log((L + R)/2 + 1) * len
         L = R
     return Fx1
-    
-#N = float(input("[0;1]"))
-#print(Func(N))
