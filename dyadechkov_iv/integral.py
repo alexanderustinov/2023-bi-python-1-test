@@ -4,7 +4,7 @@ def f(x: int):
     """
        f(x) наша функция
     """
-    return math.exp(x)
+    return math.tan(x)
 
 
 def integral(n: int):
