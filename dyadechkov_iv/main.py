@@ -1,6 +1,7 @@
-"""Module providing a function printing python version."""
-
 from integral import integral
+import pytest
 
-step = int(input())
-print(integral(step))
+
+@pytest.mark
+def test_integral():
+    assert integral(2) == 1.324360635350064
