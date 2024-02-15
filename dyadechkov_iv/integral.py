@@ -1,15 +1,18 @@
 """Module providing a function printing python version."""
+
 import math
+
+
 def f(x: int):
     """
-       f(x) наша функция
+    f(x) наша функция
     """
     return math.tan(x)
 
 
 def integral(n: int):
     """
-        вычисление интеграла
+    вычисление интеграла
     """
     a = 0
     b = 1
